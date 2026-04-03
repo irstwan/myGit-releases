@@ -1,15 +1,15 @@
 {
-  "version": "0.1.26",
-  "notes": "Release v0.1.26",
-  "pub_date": "2026-04-03T07:49:12Z",
+  "version": "0.1.27",
+  "notes": "Release v0.1.27",
+  "pub_date": "2026-04-03T09:06:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyak5XTmZPVTJjd1pBWUQ4Z2lCRGpzZjd4T2hhWTltdDJkbVQyUzNIS1ArQVNaNERMdXNKQmEwSnZUR1JRb0cxVWkzRk1Zb1JXcFpzZ1plQklXcVdWeHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjAyNTQ2CWZpbGU6bXlHaXQuYXBwLnRhci5negpGUjgwQUd3eitFYTlxck1EQ2FCTzV6U2hBeHd3MlRXZ09pdC9KZTFIMXBBVUJjVGcyOWcvNjBBemtNT0huYktvd2Q5TDZEV2VBVEk0dDVGVUtZaFJCQT09Cg==",
-      "url": "https://github.com/irstwan/myGit/releases/download/v0.1.26/myGit.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyakFsM3AydHJmbmdqUmtITUt2T2grMlJSMGt2OVpVQno4OUROVGg1aGtTMEw1aWF2dWhlaktraHl4QXNQR3kxZ29KNGF0NnRrMUJTTU4rb0hFQ2o3VGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjA3MTgzCWZpbGU6bXlHaXQuYXBwLnRhci5negoxN1o1cExGQ21IaFBaRjIyRlBRSThGTzg1S2tYY1Bmb0w4eGJnb1JIRDI5Q3JzMFRlOEJsSGI2TmxrUEc2V2VoeVhCV1psUElBaytIS2s5TkFaNGJEUT09Cg==",
+      "url": "https://github.com/irstwan/myGit/releases/download/v0.1.27/myGit.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyak5XTmZPVTJjd1pBWUQ4Z2lCRGpzZjd4T2hhWTltdDJkbVQyUzNIS1ArQVNaNERMdXNKQmEwSnZUR1JRb0cxVWkzRk1Zb1JXcFpzZ1plQklXcVdWeHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjAyNTQ2CWZpbGU6bXlHaXQuYXBwLnRhci5negpGUjgwQUd3eitFYTlxck1EQ2FCTzV6U2hBeHd3MlRXZ09pdC9KZTFIMXBBVUJjVGcyOWcvNjBBemtNT0huYktvd2Q5TDZEV2VBVEk0dDVGVUtZaFJCQT09Cg==",
-      "url": "https://github.com/irstwan/myGit/releases/download/v0.1.26/myGit.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyakFsM3AydHJmbmdqUmtITUt2T2grMlJSMGt2OVpVQno4OUROVGg1aGtTMEw1aWF2dWhlaktraHl4QXNQR3kxZ29KNGF0NnRrMUJTTU4rb0hFQ2o3VGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjA3MTgzCWZpbGU6bXlHaXQuYXBwLnRhci5negoxN1o1cExGQ21IaFBaRjIyRlBRSThGTzg1S2tYY1Bmb0w4eGJnb1JIRDI5Q3JzMFRlOEJsSGI2TmxrUEc2V2VoeVhCV1psUElBaytIS2s5TkFaNGJEUT09Cg==",
+      "url": "https://github.com/irstwan/myGit/releases/download/v0.1.27/myGit.app.tar.gz"
     }
   }
 }
