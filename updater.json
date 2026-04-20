@@ -1,15 +1,15 @@
 {
   "version": "0.1.32",
-  "notes": "Release v0.1.32",
+  "notes": "Release v0.1.33",
   "pub_date": "2026-04-15T17:56:27Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyakZEZWYza3Nud0R4Ty92dEhpblNCdlpkQ015ejF1ZFphamVvZjhsaVlzd0ExaW50TG5wMXlTdFlWODYva094MWIvWWFCdnRBYWtjd3hQdDdkc085ZWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Mjc1Nzc5CWZpbGU6bXlHaXQuYXBwLnRhci5negpIMHRxMnl0c1BjTlp3czhIT3NNN0dqRFBtZXBtY3NLSkJzZlcxSG8veU1yZ1pvNlhjU0oyaUwzb0dsb0dKOVBVMzlyamRBYURhZFlsd1J0aVF2K0lCQT09Cg==",
-      "url": "https://github.com/irstwan/myGit-releases/releases/download/v0.1.32/myGit.tar.gz"
+      "url": "https://github.com/irstwan/myGit-releases/releases/download/v0.1.33/myGit.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyakZEZWYza3Nud0R4Ty92dEhpblNCdlpkQ015ejF1ZFphamVvZjhsaVlzd0ExaW50TG5wMXlTdFlWODYva094MWIvWWFCdnRBYWtjd3hQdDdkc085ZWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Mjc1Nzc5CWZpbGU6bXlHaXQuYXBwLnRhci5negpIMHRxMnl0c1BjTlp3czhIT3NNN0dqRFBtZXBtY3NLSkJzZlcxSG8veU1yZ1pvNlhjU0oyaUwzb0dsb0dKOVBVMzlyamRBYURhZFlsd1J0aVF2K0lCQT09Cg==",
-      "url": "https://github.com/irstwan/myGit-releases/releases/download/v0.1.32/myGit.tar.gz"
+      "url": "https://github.com/irstwan/myGit-releases/releases/download/v0.1.33/myGit.app.tar.gz"
     }
   }
 }
