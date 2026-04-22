@@ -1,15 +1,15 @@
 {
-  "version": "0.1.36",
-  "notes": "Release v0.1.36",
-  "pub_date": "2026-04-22T16:39:47Z",
+  "version": "0.1.37",
+  "notes": "Release v0.1.37",
+  "pub_date": "2026-04-22T16:57:21Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyaktYanFQRXFaRkN1Vkc1SEs4VXNVOE8yd2w0RC9jbWtac1NWMnNvVjJLRXI1b1VnYkptbHZYa0RtMDJja1I2NVNPanpERjFEMzlpclZPMXUrNGxMbVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODc1OTgwCWZpbGU6bXlHaXQuYXBwLnRhci5negpvYTI1QW1RcGxPakQwdEpnRS8zWkg5cStCclJ6THlkVFh2TGtPUFpBUXlvQ1lNbVRCZFdyTzd6b3BzRW4xeW1HMnY2ZTJ0RHdNSmxsKzRrR3JoSCtCQT09Cg==",
-      "url": "https://github.com/ir1set/myGit/releases/download/v0.1.36/myGit.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyakhucFU1T0Ura3lxNHNIcGIvcElmcmFQY3dVc296RXRxZHVoODBQUmlDNFlOelZEdGFXNjdkTi83dklDQldWQ0k4T3pKUXJMcHNTbzF3WWI4TmhWMFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODc3MDM1CWZpbGU6bXlHaXQuYXBwLnRhci5negozdS9BYkFqNE9JRjVscHdZWnlDS1JQczFUNnZkbFZtbTJZWG5VODMyczN0dmlXRUx0THp0QkQxeTUrZlcxQjFkaDU1YUc5V3E5cXpLVEluK1VmS0RBdz09Cg==",
+      "url": "https://github.com/ir1set/myGit/releases/download/v0.1.37/myGit.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyaktYanFQRXFaRkN1Vkc1SEs4VXNVOE8yd2w0RC9jbWtac1NWMnNvVjJLRXI1b1VnYkptbHZYa0RtMDJja1I2NVNPanpERjFEMzlpclZPMXUrNGxMbVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODc1OTgwCWZpbGU6bXlHaXQuYXBwLnRhci5negpvYTI1QW1RcGxPakQwdEpnRS8zWkg5cStCclJ6THlkVFh2TGtPUFpBUXlvQ1lNbVRCZFdyTzd6b3BzRW4xeW1HMnY2ZTJ0RHdNSmxsKzRrR3JoSCtCQT09Cg==",
-      "url": "https://github.com/ir1set/myGit/releases/download/v0.1.36/myGit.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyakhucFU1T0Ura3lxNHNIcGIvcElmcmFQY3dVc296RXRxZHVoODBQUmlDNFlOelZEdGFXNjdkTi83dklDQldWQ0k4T3pKUXJMcHNTbzF3WWI4TmhWMFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODc3MDM1CWZpbGU6bXlHaXQuYXBwLnRhci5negozdS9BYkFqNE9JRjVscHdZWnlDS1JQczFUNnZkbFZtbTJZWG5VODMyczN0dmlXRUx0THp0QkQxeTUrZlcxQjFkaDU1YUc5V3E5cXpLVEluK1VmS0RBdz09Cg==",
+      "url": "https://github.com/ir1set/myGit/releases/download/v0.1.37/myGit.app.tar.gz"
     }
   }
 }
