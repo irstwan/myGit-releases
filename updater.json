@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyakdUYkt1YXNycytzd0g5YytsMXR1NHU1OWs3dFJRSFdyZ2E3Tjhsa1lVa01FUHJNY2ZhdCtsSitSeEhRdERJTm5Ld1l4ME9ncWd4UVZ4T3ZlU1hhYkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTY2MDA1CWZpbGU6bXlHaXQuYXBwLnRhci5negpPOEs3YVI1cWFkVnNKRkNVMENyY2M4RitRQ1FWNUVrTTBXRE8yb2ZkakJ5ZmdTb1BxekJibmRQRWh0MEpqMnVnVHRMZGFKZVZGckorbWRuVW9IdTRCZz09Cg==",
-      "url": "https://github.com/ir1set/myGit/releases/download/v0.1.39/myGit.app.tar.gz"
+      "url": "https://github.com/irstwan/myGit-releases/releases/download/v0.1.39/myGit.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyakdUYkt1YXNycytzd0g5YytsMXR1NHU1OWs3dFJRSFdyZ2E3Tjhsa1lVa01FUHJNY2ZhdCtsSitSeEhRdERJTm5Ld1l4ME9ncWd4UVZ4T3ZlU1hhYkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTY2MDA1CWZpbGU6bXlHaXQuYXBwLnRhci5negpPOEs3YVI1cWFkVnNKRkNVMENyY2M4RitRQ1FWNUVrTTBXRE8yb2ZkakJ5ZmdTb1BxekJibmRQRWh0MEpqMnVnVHRMZGFKZVZGckorbWRuVW9IdTRCZz09Cg==",
-      "url": "https://github.com/ir1set/myGit/releases/download/v0.1.39/myGit.app.tar.gz"
+      "url": "https://github.com/irstwan/myGit-releases/releases/download/v0.1.39/myGit.tar.gz"
     }
   }
 }
