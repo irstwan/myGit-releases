@@ -1,14 +1,14 @@
 {
   "version": "0.1.50",
   "notes": "Release v0.1.50",
-  "pub_date": "2026-11-09T11:01:23Z",
+  "pub_date": "2026-11-09T11:10:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyak9iUjRDc1U5dFdwMDhuSm5EanZCTlNKSWVhcU1tMTJjWHJuQ1JXVEprYXYwYUt0R0J4Tm54OG5nVnpwcFp2REhiWnA5eGU0QTZCZU5yV2c5bkFyMkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE3NDc2CWZpbGU6bXlHaXQuYXBwLnRhci5negpRU2JCTTV2eG1iNk1haC92UGhFY2tUbUswemtqMm1GbWxkSjR6Y21rcHRHRmtwczN4NkxqdjFicjRVYlZtUFdjeFZtQ1dCVmNQajl4WUhqRkJ4eWNEdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyak0wMWs2WW1FOVgvMFdmcE5xNm9aeDVLaWYzb2w0RXVNZjVtSk0wMkF6cVlnK3lDbzBUbXZZT2RZNytjWjdCeFBzT0krUTBmQWxVeTk5VlYwOXhUcmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjIyNjMxCWZpbGU6bXlHaXQuYXBwLnRhci5negpOS3VYcUgzeUU4TzVGLytKeHM1MjdiNStoWVE3cEpTMlRkSkZWTTZ5MnduUDJRQU52YW40Z1lhS0Y4TEcrRDV3T091Z2czN2NwYi82TnpPSWRjeFdEdz09Cg==",
       "url": "https://github.com/irstwan/myGit/releases/download/v0.1.50/myGit.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyak9iUjRDc1U5dFdwMDhuSm5EanZCTlNKSWVhcU1tMTJjWHJuQ1JXVEprYXYwYUt0R0J4Tm54OG5nVnpwcFp2REhiWnA5eGU0QTZCZU5yV2c5bkFyMkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE3NDc2CWZpbGU6bXlHaXQuYXBwLnRhci5negpRU2JCTTV2eG1iNk1haC92UGhFY2tUbUswemtqMm1GbWxkSjR6Y21rcHRHRmtwczN4NkxqdjFicjRVYlZtUFdjeFZtQ1dCVmNQajl4WUhqRkJ4eWNEdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyak0wMWs2WW1FOVgvMFdmcE5xNm9aeDVLaWYzb2w0RXVNZjVtSk0wMkF6cVlnK3lDbzBUbXZZT2RZNytjWjdCeFBzT0krUTBmQWxVeTk5VlYwOXhUcmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjIyNjMxCWZpbGU6bXlHaXQuYXBwLnRhci5negpOS3VYcUgzeUU4TzVGLytKeHM1MjdiNStoWVE3cEpTMlRkSkZWTTZ5MnduUDJRQU52YW40Z1lhS0Y4TEcrRDV3T091Z2czN2NwYi82TnpPSWRjeFdEdz09Cg==",
       "url": "https://github.com/irstwan/myGit/releases/download/v0.1.50/myGit.app.tar.gz"
     },
     "windows-x86_64": {
