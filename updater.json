@@ -1,7 +1,7 @@
 {
   "version": "0.1.52",
   "notes": "Release v0.1.52",
-  "pub_date": "2026-11-11T07:55:02Z",
+  "pub_date": "2026-11-11T08:16:29Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyaktISHpZY0NtL21pNWZUa09jSThsSmZCUlM1Zld0L2dZNW5mWXNzWDVuZWI4dUx3NUxnS2RSWnZoOVk1YWRTeHhCd2ZYUjhZYXNnWGU2eEN2ZVJjMVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzgzNjkyCWZpbGU6bXlHaXQuYXBwLnRhci5negpDODFHQUhjMmt2ckdhekk3a2NjQU5lMG53RGhhY3ErUE4vNFV2eWdiQVZtSExxU01VUWpOT2tPa1ZrZWMwNGlvVGpBdTZZaG5MaEtjUTFmQ1BhRGtDUT09Cg==",
@@ -12,8 +12,8 @@
       "url": "https://github.com/irstwan/myGit/releases/download/v0.1.52/myGit.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyakZPTjRpNkpicEUyUzJnZXowYW1BVERvM0hIK2FoMmRFdEhrS00yUXR3YU9IOWtGdnRnVERaTDdqSTFiWmZSUmlWbmFtWVBEQ0hhL3JvODR4UVN3TWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzUxNTM5CWZpbGU6bXlHaXRfMC4xLjUxX3g2NC1zZXR1cC5leGUKS0pXcE1ON2lZYnp5SmZqZXI5RWNKOTZha3k3YUM5RmY4TTAzYm5mdy9WbmNPTnZqR05EaXNVWHh4RlNHZzVMZ0l5Vkc4RVpZd2pDSmRFYnNZY1poRHc9PQo=",
-      "url": "https://github.com/irstwan/myGit/releases/download/v0.1.51/myGit_0.1.51_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3JwVUFwSXIyakpUZmdxdzhSSEk5YjRtM29nRSt0YVVnYkdtWHFWN2xCZkVUZjlmYmY2UTgxa01RbUhUeER0Z3NjY0N0MFcycmdzOUNhQ2NzY0NlTDlUbmM3NVNLMHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mzg0OTgyCWZpbGU6bXlHaXRfMC4xLjUyX3g2NC1zZXR1cC5leGUKem96a2NoOFk0dmFUTDNEUTFwVWxnRXE1Z1BnQXNncDZmSXU2WDFPWiszS2QrOEp3UDU0U0xwb0RCSWtKdklsMnV6V1dQTG1nQk5Mdmx5UG1LemVTQUE9PQo=",
+      "url": "https://github.com/irstwan/myGit/releases/download/v0.1.52/myGit_0.1.52_x64-setup.exe"
     }
   }
 }
